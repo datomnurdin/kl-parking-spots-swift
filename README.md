@@ -14,5 +14,8 @@ Mohammad Nurdin bin Norazan
 - http://twitter.com/datomnurdin
 - mohammadnrdn@gmail.com
 
+##CREDIT
+[Matias Singers](https://github.com/matiassingers)
+
 ##License
 MIT Mohammad Nurdin bin Norazan
