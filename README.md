@@ -17,5 +17,5 @@ Mohammad Nurdin bin Norazan
 ##CREDIT
 [Matias Singers](https://github.com/matiassingers)
 
-##License
+##LICENSE
 MIT Mohammad Nurdin bin Norazan
